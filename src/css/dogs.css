@@ -3,5 +3,9 @@
 }
 .dogs-list {
     display: flex;
-    gap: 50px;
+    gap: 50px ;
 }
+
+.dogs-list li {
+    background-image: url(../img/dogs/puppy-2785074__340.jpeg);
+} 
