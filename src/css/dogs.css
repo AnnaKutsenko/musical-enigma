@@ -1,0 +1,7 @@
+.dogs-list img{
+    width: 200px;
+}
+.dogs-list {
+    display: flex;
+    gap: 50px;
+}
